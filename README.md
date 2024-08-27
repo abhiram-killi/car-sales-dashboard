@@ -1,6 +1,8 @@
 Automotive Sales Data Analysis Report
 This report presents a detailed analysis of automotive sales data, focusing on key metrics such as average selling price, maximum seats, and sales by seller type. The data is visualized using line charts, bar charts, and pie charts for clear interpretation.
 
+![Screenshot 2024-08-27 215713](https://github.com/user-attachments/assets/b087a071-8e37-47be-b058-67f435200ce3)
+
 Key Findings
 Average Selling Price
 Overall Trend: The average selling price of cars has steadily increased over the years, with a notable spike in 2018.
